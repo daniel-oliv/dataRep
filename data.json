@@ -2,33 +2,51 @@
  "name": "Brasil",
  "children": [
   {
-   "name": "Sudeste",
-   "children": [
-    {
-     "name": "Espírito Santo",
-     "children": [
-      {"name": "Vitória", "value": 3938}
-     ]
-    },
-    {
-     "name": "Minas Gerais",
-     "children": [
-      {"name": "Belo Horizonte", "value": 3534},
-      {"name": "Patos de Minas", "value": 5731},
-      {"name": "Uberlândia", "value": 7840}
-     ]
-    },
-    {
-     "name": "São Paulo",
-     "children": [
-      {"name": "São Paulo", "value": 7074}
-     ]
-    }
-   ]
-  },
-  {
    "name": "Norte",
    "value": 7074
+  },
+  {
+    "name": "Nordeste",
+    "value": 7074
+  },
+  {
+    "name": "Centro-Oeste",
+    "value": 7074
+  },
+  {
+    "name": "Sudeste",
+    "children": [
+     {
+      "name": "Espírito Santo",
+      "children": [
+       {"name": "Vitória", "value": 3938}
+      ]
+     },
+     {
+      "name": "Minas Gerais",
+      "children": [
+       {"name": "Belo Horizonte", "value": 3534},
+       {"name": "Patos de Minas", "value": 5731},
+       {"name": "Uberlândia", "value": 7840}
+      ]
+     },
+     {
+         "name": "Rio de Janeiro",
+         "children": [
+          {"name": "Rio de Janeiro", "value": 7074}
+         ]
+     },
+     {
+      "name": "São Paulo",
+      "children": [
+       {"name": "São Paulo", "value": 7074}
+      ]
+     }
+    ]
+  },
+  {
+    "name": "Sul",
+    "value": 7074
   }
  ]
 }
