@@ -1,0 +1,34 @@
+{
+ "name": "Brasil",
+ "children": [
+  {
+   "name": "Sudeste",
+   "children": [
+    {
+     "name": "Espírito Santo",
+     "children": [
+      {"name": "Vitória", "value": 3938}
+     ]
+    },
+    {
+     "name": "Minas Gerais",
+     "children": [
+      {"name": "Belo Horizonte", "value": 3534},
+      {"name": "Patos de Minas", "value": 5731},
+      {"name": "Uberlândia", "value": 7840}
+     ]
+    },
+    {
+     "name": "São Paulo",
+     "children": [
+      {"name": "São Paulo", "value": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Norte",
+   "value": 7074
+  }
+ ]
+}
